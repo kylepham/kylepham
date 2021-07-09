@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kylepham (Hoang H. Pham) 🇻🇳
-- 👀 I’m recently interested in Mobile Development (React Native) and Web Development (HTML/CSS/JavaScript/ReactJS/Django)
-- 🌱 I’m currently learning to improve existing programming interests and explore gaming industries.
+- 👀 I’m recently interested in Mobile Development (React Native) and Web Development (HTML/CSS/JavaScript/TypeScript/ReactJS/Django/NodeJS)
 - 📫 Contact: hoangpham_2023@depauw.edu (DePauw University) / hoanghuypham2121@gmail.com (Personal)
 
 <!---
