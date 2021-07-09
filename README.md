@@ -3,8 +3,8 @@
 - 📫 Contact: hoangpham_2023@depauw.edu (DePauw University) / hoanghuypham2121@gmail.com (Personal)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kylepham&show_icons=true" height=200 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylepham&layout=compact" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api?username=kylepham&show_icons=true" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylepham&layout=compact" height=150 />
 </div>
 
 <!---
