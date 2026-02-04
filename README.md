@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylepham (Hoang H. Pham) 🇻🇳
-- 👀 I’m interested in Mobile Development (React Native) and Web Development (HTML/CSS/JavaScript/TypeScript/ReactJS/Django/NodeJS)
-- 📫 Contact: hoangpham_2023@depauw.edu (DePauw University) / hoanghuypham2121@gmail.com (Personal)
+- 👀 I’m interested in React Native, Web Development, and Cloud Architecture
+- 📫 Contact: hoanghuypham2121@gmail.com
 
 <!---
 kylepham/kylepham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
